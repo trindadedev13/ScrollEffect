@@ -8,6 +8,6 @@
 - IOS Like scroll effect.
 
 # Thanks
-- [AndroidX](https://github/androidx/androidx) for CupertinoScroll, EdgeEffectCompat and StretchEdgeEffect
+- [Android Open Source Project](https://source.android.com/) for CupertinoScroll, EdgeEffectCompat and StretchEdgeEffect
 - [Nxoim](https://github.com/nxoim) for CupertinoScrollProvider
 - [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) for NestedScrollStretch
