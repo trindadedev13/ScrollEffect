@@ -487,7 +487,7 @@ private fun Velocity.toOffset(): Offset = Offset(x, y)
 
 private fun Offset.toVelocity(): Velocity = Velocity(x, y)
 
-internal class CupertinoFlingBehavior(
+class CupertinoFlingBehavior(
   private val flingDecay: DecayAnimationSpec<Float>,
   private val motionDurationScale: MotionDurationScale =
     object : MotionDurationScale {
