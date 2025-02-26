@@ -11,7 +11,7 @@ kotlin = "2.1.10"
 
 lib-version = "1.0.0"
 
-compose-version = "1.8.0-beta02"
+compose-version = "1.8.0-beta03"
 [libraries]
 androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "androidx-appcompat" }
 
